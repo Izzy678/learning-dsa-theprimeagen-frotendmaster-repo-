@@ -1,0 +1,12 @@
+{
+    "clearMocks": true,
+    "moduleNameMapper": {
+        "@code/(.*)": [
+            "<rootDir>/src/day1/$1"
+        ],
+        "@scripts/(.*)": [
+            "<rootDir>/scripts/$1"
+        ]
+    },
+    "preset": "ts-jest"
+}
