@@ -1,6 +1,9 @@
 {
     "clearMocks": true,
     "moduleNameMapper": {
+        "day-1/(.*)": [
+            "<rootDir>/src/day-1/$1"
+        ],
         "@code/(.*)": [
             "<rootDir>/src/day1/$1"
         ],

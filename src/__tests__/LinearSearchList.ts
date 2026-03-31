@@ -1,4 +1,4 @@
-import { linearSearch } from "@scripts/day-1/linear-search"
+import { linearSearch } from "day-1/linear-search"
 
 test("linear search array", function () {
 

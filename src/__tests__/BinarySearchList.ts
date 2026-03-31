@@ -1,4 +1,4 @@
-import { binarySearch } from "@scripts/day-1/binary-search"
+import { binarySearch } from "day-1/binary-search"
 
 test("binary search array", function() {
 
